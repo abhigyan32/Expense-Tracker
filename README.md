@@ -94,11 +94,6 @@ You can deploy:
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots later)
-
----
 
 ## 🔮 Future Enhancements
 
