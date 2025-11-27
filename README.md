@@ -1,20 +1,20 @@
-# MERN Expense Tracker 💰
+# MERN Expense Tracker 
 
 A full-stack **Expense Tracker Application** built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.
 This app helps users track income and expenses, visualize spending patterns, and manage financial activity in a clean and responsive UI.
 
 ---
 
-## ✨ Features
+##  Features
 
-✔ Add, edit, and delete transactions
-✔ Track both **income and expenses**
-✔ View total balance and spending summary
-✔ Beautiful and responsive dashboard
-✔ Secure backend with RESTful APIs
-✔ MongoDB database integration
-✔ Fully functional UI built on React
-✔ Easy to deploy and extend
+* Add, edit, and delete transactions
+* Track both **income and expenses**
+* View total balance and spending summary
+* Beautiful and responsive dashboard
+* Secure backend with RESTful APIs
+* MongoDB database integration
+* Fully functional UI built on React
+* Easy to deploy and extend
 
 ---
 
@@ -36,11 +36,11 @@ This app helps users track income and expenses, visualize spending patterns, and
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 
 
-### 2️⃣ Install Dependencies
+###  Install Dependencies
 
 #### Install server dependencies:
 
@@ -56,7 +56,7 @@ cd ../client
 npm install
 ```
 
-### 3️⃣ Configure Environment Variables
+###  Configure Environment Variables
 
 Create a `.env` file in the `server/` folder:
 
@@ -67,7 +67,7 @@ PORT=5000
 
 ---
 
-## ▶️ Run the Project
+## Run the Project
 
 ### Start backend:
 
@@ -84,7 +84,7 @@ npm start
 ```
 
 
-## 🚀 Deployment
+##  Deployment
 
 You can deploy:
 
@@ -95,7 +95,7 @@ You can deploy:
 ---
 
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * User authentication (JWT)
 * Category-wise analytics and charts
